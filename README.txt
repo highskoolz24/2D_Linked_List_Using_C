@@ -1,4 +1,5 @@
-Lab2.c
+#2D Linked List using C
+
 Compiling:
 	cc Lab2.c -o temp
 
